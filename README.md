@@ -1,7 +1,7 @@
 # What's this Project?
 
-I long time ago I developed a Warcraft 3 Mod called [http://www.epicwar.com/maps/221823/](Ice Survival War) in Portuguese.
-Now, I want to develop it as a Web Game using [https://phaser.io/](Phaser.js).
+I long time ago I developed a Warcraft 3 Mod called [Ice Survival War](http://www.epicwar.com/maps/221823).
+Now, I want to develop it as a Web Game using [Phaser](https://phaser.io).
 
 I want it to be Free and Open Source.
 
