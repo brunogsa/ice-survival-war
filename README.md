@@ -17,5 +17,14 @@ The game ends when an entire team dies, so the challenge is to see which team wi
 - They must eat, drink, keep warm
 - Survive the Environment and Creatures of the Island
 - It's impossible to directly reach the Enemy Island
-- However, It's possible to Summon Epic Monster on the Enemy Land
+- However, It's possible to Summon Epic Monsters on the Enemy Land
 - Each player can craft items, build bases and fight the monster while helping each other
+
+# Contributing
+
+If you wanna help me, you're welcome. :)
+
+```
+npm start   // Starts the Game on localhost:3000
+npm test    // Run the Linter
+```
