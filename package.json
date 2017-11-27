@@ -1,7 +1,7 @@
 {
   "name": "ice-survival-war",
   "version": "0.1.0",
-  "description": "A Survival Game Competition developed using Phaser",
+  "description": "A Survival Game Competition developed with Phaser",
   "main": "src/main.js",
   "directories": {
     "test": "tests"
