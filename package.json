@@ -1,0 +1,29 @@
+{
+  "name": "ice-survival-war",
+  "version": "0.1.0",
+  "description": "A Survival Game Competition developed using Phaser",
+  "main": "src/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunogsa/ice-survival-war.git"
+  },
+  "keywords": [
+    "phaser",
+    "game"
+  ],
+  "author": "Bruno Agostini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunogsa/ice-survival-war/issues"
+  },
+  "homepage": "https://github.com/brunogsa/ice-survival-war#readme",
+  "dependencies": {
+    "phaser-ce": "^2.9.2"
+  }
+}
