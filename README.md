@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/brunogsa/ice-survival-war.svg?branch=master)](https://travis-ci.org/brunogsa/ice-survival-war)
+
 # What's this Project?
 
 I long time ago I developed a Warcraft 3 Mod called [Ice Survival War](http://www.epicwar.com/maps/221823). <br>
