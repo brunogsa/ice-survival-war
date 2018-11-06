@@ -1,10 +1,9 @@
 ## Pull Request Description
 
-Explain here what your Pull Request is about
+Explain here what's your Pull Request about.
 
 ## Tests
 
-[] I've done manual tests
-[] I updated existing Tests
-[] I added new Tests
-[] Automated Tests are passing on my Machine
+[] I did manual tests
+[] I updated existing tests
+[] I added new automated tests
