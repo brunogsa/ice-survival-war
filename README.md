@@ -3,6 +3,8 @@
 I long time ago I developed a Warcraft 3 Mod called [Ice Survival War](http://www.epicwar.com/maps/221823). <br>
 Now, I want to develop it as a Web Game using [Love 2D](https://love2d.org/).
 
+The roadmaps can be followed on [Trello](https://trello.com/b/naMi8MpI/ice-survival-war).
+
 I want it to be Free and Open Source.
 
 # What's the Game Idea?
