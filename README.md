@@ -1,9 +1,7 @@
-[![Build Status](https://travis-ci.org/brunogsa/ice-survival-war.svg?branch=master)](https://travis-ci.org/brunogsa/ice-survival-war)
-
 # What's this Project?
 
 I long time ago I developed a Warcraft 3 Mod called [Ice Survival War](http://www.epicwar.com/maps/221823). <br>
-Now, I want to develop it as a Web Game using [Phaser](https://phaser.io).
+Now, I want to develop it as a Web Game using [Love 2D](https://love2d.org/).
 
 I want it to be Free and Open Source.
 
@@ -19,12 +17,3 @@ The game ends when an entire team dies, so the challenge is to see which team wi
 - It's impossible to directly reach the Enemy Island
 - However, It's possible to Summon Epic Monsters on the Enemy Land
 - Each player can craft items, build bases and fight the monster while helping each other
-
-# Contributing
-
-If you wanna help me, you're welcome. :)
-
-```
-npm start   // Starts the Game on localhost:3000
-npm test    // Run the Linter
-```
