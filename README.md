@@ -12,8 +12,7 @@ There're 2 teams of Survivors.
 Each Team spawns on a Ice Island and must cooperate to Survive. <br>
 The game ends when an entire team dies, so the challenge is to see which team will last longer.
 
-- They must eat, drink, keep warm
-- Survive the Environment and Creatures of the Island
-- It's impossible to directly reach the Enemy Island
-- However, It's possible to Summon Epic Monsters on the Enemy Land
-- Each player can craft items, build bases and fight the monster while helping each other
+- Eat, keep warm, threat diseases, survive the environment and creatures of the island
+- It's impossible to directly reach the enemy island, but curses and monsters can be summoned there
+- Players can craft items, build bases and share resources
+- The combat has a random factor, but is mostly defined by the players skill and strategy
