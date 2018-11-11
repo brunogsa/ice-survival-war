@@ -1,7 +1,16 @@
 # Requirements
 
-- Lua 5+
-- LOVE 11+
+- Lua 5.1+
+- LOVE 11.1+
+
+## Installing Lua Tooling
+
+```shell
+sudo apt install -y lua5.3
+
+# Check installation
+lua -v
+```
 
 ## Installing Love
 
@@ -14,17 +23,9 @@ sudo apt-get install -y love love-doc
 love --version
 ```
 
-## Installing Lua
+# Useful Commands
 
 ```shell
-sudo apt install -y lua5.3
-
-# Check installation
-lua -v
-```
-
-# Running the Game
-
-```shell
+# Run the Game
 love .
 ```
